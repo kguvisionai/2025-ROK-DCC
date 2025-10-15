@@ -1,0 +1,2 @@
+pip install numpy, sounddevice, PySide6, pyqtgraph, transformers, scipy
+pip install <본인 cuda에 맞는 torch 버전>
